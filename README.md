@@ -3,7 +3,9 @@
 
 #Git clone https://github.com/KALLXD/crack-fb-free
 
-#cd FREEM
+#cd free
 
-#python FREEM. py
+#python free. py
+
+*MOHON MAAF YG PERTAMA MASIH EROR RALAT INI MOGA UDH BENER
 
